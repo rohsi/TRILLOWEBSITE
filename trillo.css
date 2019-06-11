@@ -1,11 +1,13 @@
-.container{
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
 
+.container{
+    background-color: red;
+    padding: 8rem;
 }
 .center{
-    margin: 100px auto;
     background-color: grey;
-    max-width: 1400px;
-}
-body{
-    background-color: red;
 }
