@@ -1,0 +1,42 @@
+.h2{
+    height: 32.65px;
+    width: 41.95px;
+}
+.search__icon{
+    height: 15px;
+    width: 17px;
+}
+.search__button{
+    background-color: white;
+    border: none;
+    margin-left: -35px;
+}
+.search__input{
+    height: 30px;
+    width: 25%;
+}
+.user-nav__icon{
+    height: 17.5px;
+    width: 17.5px;
+
+
+}
+.user-nav__user-photo{
+    height: 37.5px;
+    width: 37.5px;
+    border-radius: 50%;
+}
+
+
+.header{
+
+
+}
+
+.user-nav__user {
+
+}
+
+.user-nav__icon-box {
+    position: relative;
+}
