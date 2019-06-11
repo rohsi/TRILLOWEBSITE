@@ -1,54 +1,11 @@
-.h2 {
-    height: 32.65px;
-    width: 41.95px;
-}
-
-.search__icon {
-    height: 15px;
-    width: 17px;
-}
-
-.search__button {
-    background-color: white;
-    border: none;
-    margin-left: -35px;
-}
-
-.search__input {
-    height: 30px;
-    flex-basis: 50%;
-}
-
-.user-nav__icon {
-    height: 17.5px;
-    width: 17.5px;
-
-}
-
-.user-nav__user-photo {
-    height: 37.5px;
-    width: 37.5px;
-    border-radius: 50%;
-}
-
-.header {
-    display: flex;
-    justify-content: space-around;
-
-}
-
-.user-nav__icon-box {
-    position: relative;
-    display: flex;
-    align-items: center;
-}
-
-.user-nav{
-    display: flex;
-    justify-content: flex-start;
-
-}
 .container{
-    margin: 80px auto;
 
+}
+.center{
+    margin: 100px auto;
+    background-color: grey;
+    max-width: 1400px;
+}
+body{
+    background-color: red;
 }
